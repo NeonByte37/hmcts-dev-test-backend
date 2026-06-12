@@ -7,7 +7,7 @@ REST API for task management (CRUD). Data is stored in PostgreSQL via Spring Dat
 - Java 21
 - PostgreSQL (local or Docker)
 - Gradle (wrapper included)
--
+
 ## Environment variables
 |  Variable      | Description       | Example     |
 |----------------|-------------------|-------------|
